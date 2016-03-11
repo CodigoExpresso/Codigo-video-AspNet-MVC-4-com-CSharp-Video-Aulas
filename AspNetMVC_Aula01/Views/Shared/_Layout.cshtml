@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="div-top-pag">
+        <h1 class="titulo-pag">Código Expresso</h1>
+    </div>
+    <div class="div-menu">
+        @Html.Action("Menu","Home")
+    </div>
+
+    <div class="div-body">
+        @RenderBody()
+    </div>
+
+    <div class="div-botton-pag">
+        <span>Visite nossa página </span><a href="http://www.codigoexpresso.com.br" target="_blank">www.codigoexpresso.com.br</a>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
