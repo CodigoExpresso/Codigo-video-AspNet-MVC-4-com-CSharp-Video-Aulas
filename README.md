@@ -6,4 +6,4 @@ Veja a postagem em http://www.codigoexpresso.com.br/Home/Postagem/29
 
 Assista esta Vídeo aula em https://www.youtube.com/watch?v=AGLyCu3iLSk
 
-Visite nossa pagina www.codigoexpresso.com.br
+Visite nossa página www.codigoexpresso.com.br
