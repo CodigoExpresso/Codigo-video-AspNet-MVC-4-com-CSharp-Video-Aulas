@@ -1,0 +1,41 @@
+﻿@model AspNetMVC_Aula.Models.ModAluno
+
+@{
+    ViewBag.Title = "Cadastro Aluno";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br />
+
+@using (Html.BeginForm("ExibeCadastroAluno","CadastroAluno",null, FormMethod.Post))
+{
+    <fieldset>
+        <legend>Cadastro Aluno</legend>
+
+        <div>
+            @Html.LabelFor(model => Model.IdAluno)
+        </div>
+        <div>
+            @Html.TextBoxFor(model => Model.IdAluno)
+        </div>
+
+        <div>
+            @Html.LabelFor(model => Model.Nome)
+        </div>
+        <div>
+            @Html.TextBoxFor(model => Model.Nome)
+        </div>
+
+        <div>
+            @Html.LabelFor(model => Model.Email)
+        </div>
+        <div>
+            @Html.TextBoxFor(model => Model.Email)
+        </div>
+        <br />
+        <div>
+            <input type="submit" value="Salvar" />
+        </div>
+    </fieldset>
+    
+}
