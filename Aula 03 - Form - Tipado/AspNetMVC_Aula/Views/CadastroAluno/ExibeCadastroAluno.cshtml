@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "ExibeCadastroAluno";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br />
+<fieldset>
+    <legend>Exibe dados Aluno</legend>
+    <div>
+        <strong>Id Aluno: </strong>@ViewData["IdAluno"]
+    </div>
+    <div>
+        <strong>Nome: </strong>@ViewData["Nome"]
+    </div>
+    <div>
+    <strong>E-Mail: </strong>@ViewData["Email"]
+</div>
+
+</fieldset>
