@@ -1,0 +1,60 @@
+﻿@model AspNetMVC_Aula.Models.ModAluno
+
+@{
+    ViewBag.Title = "Cadastro Aluno";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br />
+
+@using (Html.BeginForm("ExibeCadastroAluno","CadastroAluno",null, FormMethod.Post))
+{
+    
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+    
+    <fieldset>
+        <legend>Cadastro Aluno</legend>
+
+        <div>
+            <div class="editor-label">
+                @Html.LabelFor(model => Model.IdAluno)
+            </div>
+            <div class="editor-field">
+                @Html.TextBoxFor(model => Model.IdAluno)
+            </div>
+            @Html.ValidationMessageFor(model => Model.IdAluno)
+        </div>
+
+        <div>
+            <div class="editor-label">
+                @Html.LabelFor(model => Model.Nome)
+            </div>
+            <div class="editor-field">
+                @Html.TextBoxFor(model => Model.Nome)
+            </div>
+            @Html.ValidationMessageFor(model => Model.Nome)
+        </div>
+
+        <div>
+            <div class="editor-label">
+                @Html.LabelFor(model => Model.Email)
+            </div>
+            <div class="editor-field">
+                @Html.TextBoxFor(model => Model.Email)
+            </div>
+            @Html.ValidationMessageFor(model => Model.Email)
+        </div>
+        <br />
+        <div>
+            <input type="submit" value="Salvar" />
+        </div>
+    </fieldset>
+    
+}
+
+
+@section scripts
+{
+    @Scripts.Render("~/bundles/jqueryval")
+}
