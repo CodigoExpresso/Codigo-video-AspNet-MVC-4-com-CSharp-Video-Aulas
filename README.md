@@ -23,4 +23,8 @@ Exemplo prático de de como desenvolver sua primeira aplicação em AspNet MVC 4
 >Veja a postagem em http://www.codigoexpresso.com.br/Home/Postagem/42      
 >Assista a Vídeo em https://www.youtube.com/watch?v=Z9oLLm-WXKc    
 
+###Aula 06     
+>Veja a postagem em http://www.codigoexpresso.com.br/Home/Postagem/51      
+>Assista a Vídeo em https://youtu.be/zCpCL5Mi2XM
+
 Visite nossa página www.codigoexpresso.com.br
