@@ -1,0 +1,27 @@
+﻿@model AspNetMVC_Aula.Models.ModAluno
+
+@{
+    ViewBag.Title = "Exibe Cadastro Aluno Tipado";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br />
+<fieldset>
+    <legend>Exibe dados Aluno</legend>
+    <div>
+        <strong>@Html.LabelFor(model => Model.IdAluno): </strong>@Html.DisplayFor(model => Model.IdAluno)
+    </div>
+    <div>
+        <strong>@Html.LabelFor(model => Model.Nome): </strong>@Html.DisplayFor(model => Model.Nome)
+    </div>
+    <div>
+        <strong>@Html.LabelFor(model => Model.Email): </strong>@Html.DisplayFor(model => Model.Email)
+    </div>
+    <div>
+        <strong>@Html.LabelFor(model => Model.DtCadastro): </strong>@Html.DisplayFor(model => Model.DtCadastro)
+    </div>
+    <div>
+        <strong>@Html.LabelFor(model => Model.ValorCurso): </strong>@Html.DisplayFor(model => Model.ValorCurso)
+    </div>
+
+</fieldset>
