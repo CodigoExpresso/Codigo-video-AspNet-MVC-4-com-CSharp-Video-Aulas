@@ -1,0 +1,100 @@
+﻿@model AspNetMVC_Aula.Models.ModAluno
+
+@{
+    ViewBag.Title = "Cadastro Aluno";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br />
+<div class="row">
+    <div class="col-md-12">
+
+
+        @using (Html.BeginForm("ExibeCadastroAluno", "CadastroAluno", null, FormMethod.Post, new { Class="form-horizontal" }))
+        {
+
+            @Html.AntiForgeryToken()
+            @Html.ValidationSummary(true)
+
+            <fieldset>
+                <legend>Cadastro Aluno</legend>
+
+                <div class="well">
+
+                <div class="row">
+                    <div class="col-md-6">
+                        @Html.LabelFor(model => Model.IdAluno)
+                        @Html.TextBoxFor(model => Model.IdAluno, new { Class = "integer form-control input-sm" })
+                        @Html.ValidationMessageFor(model => Model.IdAluno)
+                    </div>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-md-6">
+                        @Html.LabelFor(model => Model.Nome)
+                        @Html.TextBoxFor(model => Model.Nome, new { Class = "form-control input-sm" })
+                        @Html.ValidationMessageFor(model => Model.Nome)
+                    </div>
+                    <div class="col-md-6">
+                        @Html.LabelFor(model => Model.Email)
+                        @Html.TextBoxFor(model => Model.Email, new { Class = "form-control input-sm" })
+                        @Html.ValidationMessageFor(model => Model.Email)
+                    </div>
+                </div>
+
+               <br />
+
+                <div class="row">
+                    <div class="col-md-3">
+                        @Html.LabelFor(model => Model.DtCadastro)
+                        @Html.TextBoxFor(model => Model.DtCadastro, new { Class = "date form-control input-sm" })
+                        @Html.ValidationMessageFor(model => Model.DtCadastro)
+                    </div>
+
+                    @*<div class="col-md-3">
+                        &nbsp;
+                    </div>*@
+
+                    <div class="col-md-3 col-md-push-3">
+                        @Html.LabelFor(model => Model.ValorCurso)
+                        @Html.TextBoxFor(model => Model.ValorCurso, new { Class = "money2 form-control input-sm" })
+                        @Html.ValidationMessageFor(model => Model.ValorCurso)
+                    </div>
+                </div>
+
+                <br />
+
+                <div class="row">
+                    <div class="col-md-6">
+                        @Html.LabelFor(model => Model.Senha)
+                        @Html.PasswordFor(model => Model.Senha, new { Class = "form-control input-sm" })
+                        @Html.ValidationMessageFor(model => Model.Senha)
+                    </div>
+                    <div class="col-md-6">
+                        @Html.LabelFor(model => Model.ConfirmaSenha)
+                        @Html.PasswordFor(model => Model.ConfirmaSenha, new { Class = "form-control input-sm" })
+                        @Html.ValidationMessageFor(model => Model.ConfirmaSenha)
+                    </div>
+                </div>
+
+               
+                <br />
+                <div class="row">
+                    <div class="col-md-12 text-right">
+                        <input class="btn btn-default btn-sm" type="submit" value="Salvar" />
+                    </div>
+                </div>
+
+                </div>
+                
+            </fieldset>
+
+        }
+
+    </div>
+</div>
+@section scripts
+{
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/Mascaras")
+}

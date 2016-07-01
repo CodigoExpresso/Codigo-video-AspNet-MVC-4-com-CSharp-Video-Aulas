@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Styles.Render("~/Content/bootstrap")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+
+    <div class="container">
+
+       
+        <div class="row">
+            <div class="col-md-12">
+                @Html.Action("Menu", "Home")
+            </div>         
+        </div>
+
+
+        <div class="row">
+            <div class="col-md-9">
+                @RenderBody()
+            </div>
+
+            <div class="col-md-3 visible-lg visible-md">
+                <br /><br />
+                <div class="panel panel-primary">
+                    <div class="panel-heading">
+                        Aulas
+                    </div>
+                    <div class="panel-body">
+                        <ul>
+                            <li>Aula 01</li>
+                            <li>Aula 02</li>
+                            <li>Aula 03</li>
+                            <li>Aula 04</li>
+                            <li>Aula 05</li>
+                        </ul>
+                    </div>
+                    <div class="panel-footer text-center">
+                        <img class="img-thumbnail" src="/content/Imagens/Logo.jpg"/>
+                    </div>
+                </div> 
+            </div>
+
+        </div>
+        <br />
+        <div class="row well-sm bg-primary">
+            <div class="col-md-3 text-left">
+                <span>www.codigoexpresso.com.br</span>
+            </div>
+            <div class="col-md-5 text-center">
+                <span>Curso Asp.Net MVC 4 Com C# passo a passo</span>
+            </div> 
+            <div class="col-md-4 text-right">
+                <span>&copy;2016 Todos os direitos reservados </span>
+            </div>
+        </div>
+        
+
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+
+    @RenderSection("scripts", required: false)
+</body>
+</html>
