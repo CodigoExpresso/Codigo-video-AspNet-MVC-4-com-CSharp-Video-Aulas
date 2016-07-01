@@ -1,6 +1,8 @@
-﻿Código da video-aula AspNet MVC 4 com C#(CSharp)
+#Curso Grátis de Asp.Net MVC 4 com C#(Csharp)
+
+##﻿Código da Vídeo Aula 
 ---
-Exemplo prático de de como desenvolver sua primeira aplicação em AspNet MVC 4 com C#(Csharp) Visual Studio 2013
+###Exemplo prático de como desenvolver sua primeira aplicação em AspNet MVC 4 com C#(Csharp) Visual Studio 2013
 
 ## Os primeiros passos
 
