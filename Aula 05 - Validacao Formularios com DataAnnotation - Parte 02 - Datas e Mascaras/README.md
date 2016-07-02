@@ -1,10 +1,12 @@
-﻿Código da video-aula AspNet MVC 4 com C#(CSharp)
----
-Exemplo prático de de como desenvolver sua primeira aplicação em AspNet MVC 4 com C#(Csharp) Visual Studio 2013
+# Curso Grátis de Asp.Net MVC 4 com C#(CSharp)
 
-## Valicação de formularios com DataAnnotation (Parte 02)
-## Validado Datas com Atributo DataBrasil
-## Mascaras com JQuery-Mask.js
+##Código da video-aula AspNet MVC 4 com C#(CSharp)
+
+####Exemplo prático de de como desenvolver sua primeira aplicação em AspNet MVC 4 com C#(Csharp) Visual Studio 2013
+
+##### Valicação de formularios com DataAnnotation (Parte 02)
+##### Validado Datas com Atributo DataBrasil
+##### Mascaras com JQuery-Mask.js
 
 ###Aula 05     
 >Veja a postagem em http://www.codigoexpresso.com.br/Home/Postagem/42      
