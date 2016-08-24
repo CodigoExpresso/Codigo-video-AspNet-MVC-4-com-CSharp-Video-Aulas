@@ -72,4 +72,9 @@
 >Veja a postagem em http://www.codigoexpresso.com.br/Home/Postagem/63      
 >Assista a Vídeo em https://youtu.be/XETzRHU9HHE
 
+###Aula 11     
+#####Acesso ao Banco de Dados SQL Server (Criando Consultas) em Asp.Net MVC com C#(CSharp)        
+>Veja a postagem em http://www.codigoexpresso.com.br/Home/Postagem/73      
+>Assista a Vídeo em https://www.youtube.com/watch?v=58FIhDroydg
+
 Visite nossa página www.codigoexpresso.com.br

@@ -1,0 +1,104 @@
+﻿<!--  
+    Html e Script para gerar Mensagens Modal com uso do Bootstrap em sua Aplicação
+
+      * Carrega Mensagem quando chamada como extensão de sua view
+      * Funcão MensagemvConfirma - Gera Modal com mensagem de confimação
+
+    Visite http://www.codigoexpresso.com.br
+-->
+@{
+    var Mensagem = "";
+    var Titulo = "";
+    if (TempData["Mensagem"] != null)
+    {
+        Mensagem = TempData["Mensagem"].ToString();
+        Titulo = TempData["Titulo"].ToString();
+    }
+}
+
+@if (Mensagem != "")
+{
+    <!--Formulario principal para Display de Mensagens /Views/shared/_Mensagem.cshtml-->
+    <div id="ModalMensagem" class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    <h4 class="modal-title">@Titulo</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-md-12 text-center">
+                            @Html.Raw(Mensagem)
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-sm btn-default" data-dismiss="modal">OK</button>
+                </div>
+            </div>
+        </div>
+    </div>
+ 
+    
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#ModalMensagem").modal('show');
+        });
+    </script>
+     
+    <!--Fim Formulario principal para Display de Mensagens -->
+}
+
+<!--Formulario principal para Display de Mensagem de Confirmação /Views/shared/_Mensagem.cshtml-->
+
+<div id="ModalConfirma" class="modal fade">
+    <div class="modal-dialog">
+        <div class="modal-content" id="BodyConfirma">
+            <!--Conteudo Dinamico-->
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+
+    // Funcao para Carregar Mensagem de confirmação, se teclar no botão SIM desvia para o link informado
+    function MensagemConfirma(Titulo, Mensagem, Link) {
+        var data = '<div class="modal-header">' +
+        '<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>' +
+        '<h4 class="modal-title">' + Titulo + '</h4>' +
+        '</div>' +
+        '<div class="modal-body">' +
+        '<div class="row">' +
+        '<div class="col-md-12 text-center">' + Mensagem + '</div>' +
+        '</div>' +
+        '</div>' +
+        '<div class="modal-footer">' +
+        '<button type="button" class="btn btn-sm btn-default" data-dismiss="modal">Não</button>' +
+        '<a href="' + Link + '" class="btn btn-sm btn-default">Sim</a>' +
+        '</div>';
+        $('#BodyConfirma').html(data);
+        $("#ModalConfirma").modal('show');
+    }
+
+    // Funcao para Carregar Mensagem
+    function Mensagem(Titulo, Mensagem) {
+        var data = '<div class="modal-header">' +
+        '<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>' +
+        '<h4 class="modal-title">' + Titulo + '</h4>' +
+        '</div>' +
+        '<div class="modal-body">' +
+        '<div class="row">' +
+        '<div class="col-md-12 text-center">' + Mensagem + '</div>' +
+        '</div>' +
+        '</div>' +
+        '<div class="modal-footer">' +
+        '<button type="button" class="btn btn-sm btn-default" data-dismiss="modal">OK</button>' +
+        '</div>';
+        $('#BodyConfirma').html(data);
+        $("#ModalConfirma").modal('show');
+    }
+
+</script>
+
+<!--Fim Formulario principal para Display de Mensagem de Confirmação -->

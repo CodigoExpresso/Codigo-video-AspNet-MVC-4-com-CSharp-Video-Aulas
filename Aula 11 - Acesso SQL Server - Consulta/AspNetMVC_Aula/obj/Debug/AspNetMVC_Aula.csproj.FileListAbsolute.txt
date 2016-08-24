@@ -1,0 +1,504 @@
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\AspNetMVC_Aula01.dll.config
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\AspNetMVC_Aula01.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\AspNetMVC_Aula01.pdb
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\Antlr3.Runtime.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\EntityFramework.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\Microsoft.Web.Infrastructure.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\Newtonsoft.Json.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\System.Net.Http.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\System.Net.Http.Formatting.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\System.Net.Http.WebRequest.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\System.Web.Http.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\System.Web.Http.WebHost.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\System.Web.Mvc.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\System.Web.Optimization.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\System.Web.Providers.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\System.Web.Razor.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\System.Web.WebPages.Deployment.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\System.Web.WebPages.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\System.Web.WebPages.Razor.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\WebGrease.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\EntityFramework.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\Newtonsoft.Json.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\System.Net.Http.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\System.Net.Http.Formatting.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\System.Net.Http.WebRequest.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\System.Web.Http.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\System.Web.Http.WebHost.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\System.Web.Mvc.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\System.Web.Razor.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\System.Web.WebPages.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\System.Web.WebPages.Deployment.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\bin\System.Web.WebPages.Razor.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\obj\Debug\AspNetMVC_Aula.csprojResolveAssemblyReference.cache
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\obj\Debug\AspNetMVC_Aula01.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula01\AspNetMVC_Aula01\obj\Debug\AspNetMVC_Aula01.pdb
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\AspNetMVC_Aula01.dll.config
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\AspNetMVC_Aula01.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\AspNetMVC_Aula01.pdb
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\Antlr3.Runtime.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\EntityFramework.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\Microsoft.Web.Infrastructure.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\Newtonsoft.Json.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\System.Net.Http.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\System.Net.Http.Formatting.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\System.Net.Http.WebRequest.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\System.Web.Http.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\System.Web.Http.WebHost.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\System.Web.Mvc.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\System.Web.Optimization.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\System.Web.Providers.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\System.Web.Razor.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\System.Web.WebPages.Deployment.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\System.Web.WebPages.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\System.Web.WebPages.Razor.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\WebGrease.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\EntityFramework.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\Newtonsoft.Json.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\System.Net.Http.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\System.Net.Http.Formatting.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\System.Net.Http.WebRequest.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\System.Web.Http.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\System.Web.Http.WebHost.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\System.Web.Mvc.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\System.Web.Razor.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\System.Web.WebPages.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\System.Web.WebPages.Deployment.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\bin\System.Web.WebPages.Razor.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula.csprojResolveAssemblyReference.cache
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula01.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula01.pdb
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\AspNetMVC_Aula01.dll.config
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\AspNetMVC_Aula01.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\AspNetMVC_Aula01.pdb
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\Antlr3.Runtime.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\EntityFramework.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\Microsoft.Web.Infrastructure.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\Newtonsoft.Json.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\System.Net.Http.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\System.Net.Http.Formatting.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\System.Net.Http.WebRequest.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\System.Web.Http.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\System.Web.Http.WebHost.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\System.Web.Mvc.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\System.Web.Optimization.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\System.Web.Providers.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\System.Web.Razor.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\System.Web.WebPages.Deployment.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\System.Web.WebPages.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\System.Web.WebPages.Razor.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\WebGrease.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\EntityFramework.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\Newtonsoft.Json.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\System.Net.Http.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\System.Net.Http.Formatting.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\System.Net.Http.WebRequest.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\System.Web.Http.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\System.Web.Http.WebHost.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\System.Web.Mvc.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\System.Web.Razor.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\System.Web.WebPages.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\System.Web.WebPages.Deployment.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\bin\System.Web.WebPages.Razor.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula.csprojResolveAssemblyReference.cache
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula01.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula02 - Form - Tipado\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula01.pdb
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\AspNetMVC_Aula01.dll.config
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\AspNetMVC_Aula01.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\AspNetMVC_Aula01.pdb
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\Antlr3.Runtime.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\EntityFramework.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\Microsoft.Web.Infrastructure.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\Newtonsoft.Json.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\System.Net.Http.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\System.Net.Http.Formatting.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\System.Net.Http.WebRequest.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\System.Web.Http.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\System.Web.Http.WebHost.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\System.Web.Mvc.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\System.Web.Optimization.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\System.Web.Providers.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\System.Web.Razor.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\System.Web.WebPages.Deployment.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\System.Web.WebPages.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\System.Web.WebPages.Razor.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\WebGrease.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\EntityFramework.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\Newtonsoft.Json.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\System.Net.Http.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\System.Net.Http.Formatting.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\System.Net.Http.WebRequest.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\System.Web.Http.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\System.Web.Http.WebHost.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\System.Web.Mvc.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\System.Web.Razor.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\System.Web.WebPages.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\System.Web.WebPages.Deployment.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\bin\System.Web.WebPages.Razor.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula.csprojResolveAssemblyReference.cache
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula01.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula03 - Form - Validacoes - Parte 01\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula01.pdb
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\AspNetMVC_Aula01.dll.config
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\AspNetMVC_Aula01.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\AspNetMVC_Aula01.pdb
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\Antlr3.Runtime.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\EntityFramework.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\Microsoft.Web.Infrastructure.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\Newtonsoft.Json.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\System.Net.Http.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\System.Net.Http.Formatting.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\System.Net.Http.WebRequest.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\System.Web.Http.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\System.Web.Http.WebHost.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\System.Web.Mvc.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\System.Web.Optimization.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\System.Web.Providers.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\System.Web.Razor.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\System.Web.WebPages.Deployment.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\System.Web.WebPages.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\System.Web.WebPages.Razor.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\WebGrease.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\EntityFramework.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\Newtonsoft.Json.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\System.Net.Http.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\System.Net.Http.Formatting.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\System.Net.Http.WebRequest.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\System.Web.Http.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\System.Web.Http.WebHost.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\System.Web.Mvc.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\System.Web.Razor.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\System.Web.WebPages.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\System.Web.WebPages.Deployment.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\bin\System.Web.WebPages.Razor.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula.csprojResolveAssemblyReference.cache
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula01.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula05 - Validacao Formularios com DataAnnotation  - Validando Datas e Criando Mascaras - Parte 02\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula01.pdb
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\AspNetMVC_Aula01.dll.config
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\AspNetMVC_Aula01.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\AspNetMVC_Aula01.pdb
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\Antlr3.Runtime.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\EntityFramework.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\Microsoft.Web.Infrastructure.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\Newtonsoft.Json.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\System.Net.Http.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\System.Net.Http.Formatting.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\System.Net.Http.WebRequest.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\System.Web.Http.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\System.Web.Http.WebHost.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\System.Web.Mvc.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\System.Web.Optimization.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\System.Web.Providers.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\System.Web.Razor.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\System.Web.WebPages.Deployment.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\System.Web.WebPages.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\System.Web.WebPages.Razor.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\WebGrease.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\EntityFramework.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\Newtonsoft.Json.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\System.Net.Http.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\System.Net.Http.Formatting.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\System.Net.Http.WebRequest.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\System.Web.Http.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\System.Web.Http.WebHost.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\System.Web.Mvc.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\System.Web.Razor.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\System.Web.WebPages.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\System.Web.WebPages.Deployment.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\bin\System.Web.WebPages.Razor.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula.csprojResolveAssemblyReference.cache
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula01.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula01.pdb
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\AspNetMVC_Aula01.dll.config
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\AspNetMVC_Aula01.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\AspNetMVC_Aula01.pdb
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\Antlr3.Runtime.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\EntityFramework.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\Microsoft.Web.Infrastructure.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\Newtonsoft.Json.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\System.Net.Http.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\System.Net.Http.Formatting.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\System.Net.Http.WebRequest.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\System.Web.Http.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\System.Web.Http.WebHost.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\System.Web.Mvc.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\System.Web.Optimization.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\System.Web.Providers.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\System.Web.Razor.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\System.Web.WebPages.Deployment.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\System.Web.WebPages.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\System.Web.WebPages.Razor.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\WebGrease.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\EntityFramework.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\Newtonsoft.Json.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\System.Net.Http.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\System.Net.Http.Formatting.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\System.Net.Http.WebRequest.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\System.Web.Http.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\System.Web.Http.WebHost.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\System.Web.Mvc.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\System.Web.Razor.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\System.Web.WebPages.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\System.Web.WebPages.Deployment.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\bin\System.Web.WebPages.Razor.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula.csprojResolveAssemblyReference.cache
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula01.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation  - Parte 03 - Copia\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula01.pdb
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula.csprojResolveAssemblyReference.cache
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula01.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\AspNetMVC_Aula01.dll.config
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\AspNetMVC_Aula01.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\AspNetMVC_Aula01.pdb
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\Antlr3.Runtime.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\EntityFramework.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\Microsoft.Web.Infrastructure.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\Newtonsoft.Json.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\System.Net.Http.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\System.Net.Http.Formatting.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\System.Net.Http.WebRequest.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\System.Web.Http.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\System.Web.Http.WebHost.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\System.Web.Mvc.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\System.Web.Optimization.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\System.Web.Providers.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\System.Web.Razor.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\System.Web.WebPages.Deployment.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\System.Web.WebPages.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\System.Web.WebPages.Razor.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\WebGrease.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\EntityFramework.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\Newtonsoft.Json.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\System.Net.Http.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\System.Net.Http.Formatting.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\System.Net.Http.WebRequest.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\System.Web.Http.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\System.Web.Http.WebHost.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\System.Web.Mvc.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\System.Web.Razor.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\System.Web.WebPages.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\System.Web.WebPages.Deployment.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\bin\System.Web.WebPages.Razor.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula01.pdb
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\AspNetMVC_Aula01.dll.config
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\AspNetMVC_Aula01.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\AspNetMVC_Aula01.pdb
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\Antlr3.Runtime.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\EntityFramework.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\Microsoft.Web.Infrastructure.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\Newtonsoft.Json.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\System.Net.Http.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\System.Net.Http.Formatting.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\System.Net.Http.WebRequest.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\System.Web.Http.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\System.Web.Http.WebHost.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\System.Web.Mvc.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\System.Web.Optimization.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\System.Web.Providers.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\System.Web.Razor.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\System.Web.WebPages.Deployment.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\System.Web.WebPages.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\System.Web.WebPages.Razor.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\WebGrease.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\EntityFramework.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\Newtonsoft.Json.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\System.Net.Http.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\System.Net.Http.Formatting.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\System.Net.Http.WebRequest.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\System.Web.Http.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\System.Web.Http.WebHost.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\System.Web.Mvc.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\System.Web.Razor.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\System.Web.WebPages.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\System.Web.WebPages.Deployment.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\bin\System.Web.WebPages.Razor.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula.csprojResolveAssemblyReference.cache
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula01.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula06 - Validacao Formularios com DataAnnotation - Parte 03\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula01.pdb
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\AspNetMVC_Aula01.dll.config
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\AspNetMVC_Aula01.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\AspNetMVC_Aula01.pdb
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\Antlr3.Runtime.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\EntityFramework.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\Microsoft.Web.Infrastructure.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\Newtonsoft.Json.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\System.Net.Http.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\System.Net.Http.Formatting.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\System.Net.Http.WebRequest.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\System.Web.Http.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\System.Web.Http.WebHost.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\System.Web.Mvc.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\System.Web.Optimization.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\System.Web.Providers.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\System.Web.Razor.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\System.Web.WebPages.Deployment.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\System.Web.WebPages.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\System.Web.WebPages.Razor.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\WebGrease.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\EntityFramework.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\Newtonsoft.Json.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\System.Net.Http.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\System.Net.Http.Formatting.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\System.Net.Http.WebRequest.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\System.Web.Http.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\System.Web.Http.WebHost.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\System.Web.Mvc.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\System.Web.Razor.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\System.Web.WebPages.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\System.Web.WebPages.Deployment.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\bin\System.Web.WebPages.Razor.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula.csprojResolveAssemblyReference.cache
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula01.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula07 - Validacao Formularios com DataAnnotation - Parte 04\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula01.pdb
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\AspNetMVC_Aula01.dll.config
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\AspNetMVC_Aula01.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\AspNetMVC_Aula01.pdb
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\Antlr3.Runtime.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\EntityFramework.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\Microsoft.Web.Infrastructure.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\Newtonsoft.Json.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\System.Net.Http.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\System.Net.Http.Formatting.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\System.Net.Http.WebRequest.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\System.Web.Http.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\System.Web.Http.WebHost.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\System.Web.Mvc.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\System.Web.Optimization.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\System.Web.Providers.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\System.Web.Razor.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\System.Web.WebPages.Deployment.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\System.Web.WebPages.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\System.Web.WebPages.Razor.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\WebGrease.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\EntityFramework.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\Newtonsoft.Json.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\System.Net.Http.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\System.Net.Http.Formatting.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\System.Net.Http.WebRequest.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\System.Web.Http.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\System.Web.Http.WebHost.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\System.Web.Mvc.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\System.Web.Razor.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\System.Web.WebPages.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\System.Web.WebPages.Deployment.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\bin\System.Web.WebPages.Razor.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula.csprojResolveAssemblyReference.cache
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula01.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula08 - Validacao Formularios com DataAnnotation - Parte 05\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula01.pdb
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\AspNetMVC_Aula01.dll.config
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\AspNetMVC_Aula01.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\AspNetMVC_Aula01.pdb
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\Antlr3.Runtime.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\EntityFramework.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\Microsoft.Web.Infrastructure.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\Newtonsoft.Json.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\System.Net.Http.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\System.Net.Http.Formatting.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\System.Net.Http.WebRequest.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\System.Web.Http.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\System.Web.Http.WebHost.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\System.Web.Mvc.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\System.Web.Optimization.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\System.Web.Providers.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\System.Web.Razor.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\System.Web.WebPages.Deployment.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\System.Web.WebPages.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\System.Web.WebPages.Razor.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\WebGrease.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\EntityFramework.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\Newtonsoft.Json.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\System.Net.Http.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\System.Net.Http.Formatting.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\System.Net.Http.WebRequest.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\System.Web.Http.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\System.Web.Http.WebHost.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\System.Web.Mvc.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\System.Web.Razor.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\System.Web.WebPages.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\System.Web.WebPages.Deployment.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\bin\System.Web.WebPages.Razor.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula.csprojResolveAssemblyReference.cache
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula01.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula09- Integrando Bootstrap com AspNet MVC\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula01.pdb
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\AspNetMVC_Aula01.dll.config
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\AspNetMVC_Aula01.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\AspNetMVC_Aula01.pdb
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\Antlr3.Runtime.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\EntityFramework.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\Microsoft.Web.Infrastructure.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\Newtonsoft.Json.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\System.Net.Http.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\System.Net.Http.Formatting.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\System.Net.Http.WebRequest.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\System.Web.Http.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\System.Web.Http.WebHost.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\System.Web.Mvc.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\System.Web.Optimization.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\System.Web.Providers.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\System.Web.Razor.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\System.Web.WebPages.Deployment.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\System.Web.WebPages.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\System.Web.WebPages.Razor.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\WebGrease.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\EntityFramework.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\Newtonsoft.Json.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\System.Net.Http.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\System.Net.Http.Formatting.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\System.Net.Http.WebRequest.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\System.Web.Http.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\System.Web.Http.WebHost.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\System.Web.Mvc.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\System.Web.Razor.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\System.Web.WebPages.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\System.Web.WebPages.Deployment.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\bin\System.Web.WebPages.Razor.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula.csprojResolveAssemblyReference.cache
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula01.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula10 - Mensagem modal com Bootstrap\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula01.pdb
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\AspNetMVC_Aula01.dll.config
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\AspNetMVC_Aula01.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\AspNetMVC_Aula01.pdb
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\Antlr3.Runtime.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\EntityFramework.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\Microsoft.Web.Infrastructure.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\Newtonsoft.Json.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\System.Net.Http.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\System.Net.Http.Formatting.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\System.Net.Http.WebRequest.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\System.Web.Http.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\System.Web.Http.WebHost.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\System.Web.Mvc.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\System.Web.Optimization.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\System.Web.Providers.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\System.Web.Razor.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\System.Web.WebPages.Deployment.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\System.Web.WebPages.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\System.Web.WebPages.Razor.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\WebGrease.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\EntityFramework.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\Newtonsoft.Json.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\System.Net.Http.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\System.Net.Http.Formatting.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\System.Net.Http.WebRequest.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\System.Web.Http.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\System.Web.Http.WebHost.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\System.Web.Mvc.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\System.Web.Razor.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\System.Web.WebPages.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\System.Web.WebPages.Deployment.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\bin\System.Web.WebPages.Razor.xml
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula.csprojResolveAssemblyReference.cache
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula01.dll
+D:\VideoAulas\Aula MVC 4\AspNetMVC_Aula11 - Acesso MS SQL Server\AspNetMVC_Aula\obj\Debug\AspNetMVC_Aula01.pdb
