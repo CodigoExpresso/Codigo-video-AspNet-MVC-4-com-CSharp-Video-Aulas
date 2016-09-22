@@ -1,0 +1,107 @@
+﻿@model AspNetMVC_Aula.Models.ModAluno
+
+@{
+    ViewBag.Title = "Cadastro Aluno";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    List<AspNetMVC_Aula.Models.ModCurso> ListaCursos = ViewBag.ListaCursos;
+}
+
+<br />
+<div class = "row">
+    <div class = "col-md-12">
+
+
+        @using (Html.BeginForm("CadastroAluno", "EscolaMySql", null, FormMethod.Post, new { Class="form-horizontal" }))
+        {
+
+            @Html.AntiForgeryToken()
+            @Html.ValidationSummary(true)
+
+            @Html.HiddenFor(model => Model.IdAluno)
+            
+            
+            <fieldset>
+                <legend>Cadastro Aluno</legend>
+
+                <div class="well">
+
+              
+                <br />
+                <div class="row">
+                    <div class="col-md-6">
+                        @Html.LabelFor(model => Model.Nome)
+                        @Html.TextBoxFor(model => Model.Nome, new { Class = "form-control input-sm" })
+                        @Html.ValidationMessageFor(model => Model.Nome)
+                    </div>
+                    <div class="col-md-6">
+                        @Html.LabelFor(model => Model.Email)
+                        @Html.TextBoxFor(model => Model.Email, new { Class = "form-control input-sm" })
+                        @Html.ValidationMessageFor(model => Model.Email)
+                    </div>
+                </div>
+
+               <br />
+
+                <div class="row">
+                    <div class="col-md-3">
+                        @Html.LabelFor(model => Model.DtCadastro)
+                        @Html.TextBoxFor(model => Model.DtCadastro, new { Class = "date form-control input-sm" })
+                        @Html.ValidationMessageFor(model => Model.DtCadastro)
+                    </div>
+
+                 
+                    <div class="col-md-3">
+                        @Html.LabelFor(model => Model.Valor)
+                        @Html.TextBoxFor(model => Model.Valor, new { Class = "money2 form-control input-sm" })
+                        @Html.ValidationMessageFor(model => Model.Valor)
+                    </div>
+
+                    <div class="col-md-6">
+                        @Html.LabelFor(model => model.Curso)
+                        <select id="Curso.idCurso" name="Curso.idCurso" class="form-control input-sm">
+                            @foreach(AspNetMVC_Aula.Models.ModCurso item in ListaCursos)
+                            {
+                                <option value="@item.idCurso" 
+                                        @if(item.idCurso == Model.Curso.idCurso)
+                                        {
+                                            @:selected
+                                        }
+                                        >@item.Descricao</option>
+                            }
+
+                        </select>
+                    </div>
+                </div>
+
+
+                <br />
+
+                
+                <br />
+                <div class="row">
+                    <div class="col-md-12 text-right">
+                        @if(Model.IdAluno > 0)
+                        { 
+                              <button class="btn btn-xs btn-danger" type="button" onclick="MensagemConfirma('Confirme ?','Deseja apagar Aluno: @Model.Nome','@Url.Action("ConfirmaApagaAluno", "EscolaMySql", new { Id = @Model.IdAluno })')">Apagar Aluno</button>
+                        }
+                        
+                        <input class="btn btn-success btn-xs" type="submit" value="Salvar" />
+
+                        <a href="@Url.Action("ListaAlunos","EscolaMySql")" class="btn btn-default btn-xs">Cancela</a>
+                    </div>
+                </div>
+
+                </div>
+                
+            </fieldset>
+
+        }
+
+    </div>
+</div>
+@section scripts
+{
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/Mascaras")
+}

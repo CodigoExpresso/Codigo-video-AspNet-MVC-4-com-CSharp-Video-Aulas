@@ -1,0 +1,41 @@
+﻿@model List<AspNetMVC_Aula.Models.ModAluno>
+
+@{
+    ViewBag.Title = "Listar Alunos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-12 text-right">
+        <a href="@Url.Action("CadastroAluno", "EscolaMySql", new  { idAluno = 0 } )" class="btn btn-default">Novo Aluno</a>
+    </div>
+</div>
+<br />
+<div class="row">
+    <div class="col-md-12">
+        <table class="table table-condensed table-striped">
+            <tr>
+                <th>Nome</th>
+                <th>E-Mail</th>
+                <th class="text-center">Cadastro</th>
+                <th class="text-right">Valor</th>
+                <th>Curso</th>
+                <th>&nbsp;</th>
+            </tr>
+
+            @foreach(AspNetMVC_Aula.Models.ModAluno item in Model)
+            {
+                <tr>
+                    <td>@item.Nome</td>
+                    <td>@item.Email</td>
+                    <td class="text-center">@item.DtCadastro.Value.ToShortDateString()</td>
+                    <td class="text-right">@Html.DisplayFor(model => item.Valor)</td>
+                    <td>@item.Curso.Descricao</td>
+                    <td class="text-center">
+                        <a href="@Url.Action("CadastroAluno", "EscolaMySql", new  { idAluno = item.IdAluno } )" class="btn btn-default btn-xs">Editar</a>
+                    </td>
+                </tr>
+            }
+        </table> 
+    </div>
+</div>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>MySql.ConnectorNET.Data</id>
+    <version>6.8.3.2</version>
+    <title>MySql.ConnectorNET.Data</title>
+    <authors>Oracle</authors>
+    <owners>Oracle</owners>
+    <licenseUrl>http://www.gnu.org/licenses/old-licenses/gpl-2.0.html</licenseUrl>
+    <projectUrl>http://dev.mysql.com/downloads/</projectUrl>
+    <iconUrl>http://www.mysql.com/common/logos/logo-mysql-110x57.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>ADO.Net driver for MySQL</description>
+    <summary />
+    <releaseNotes>Review readme.txt for details.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>MySql MySql.Data ConnectorNET</tags>
+  </metadata>
+</package>

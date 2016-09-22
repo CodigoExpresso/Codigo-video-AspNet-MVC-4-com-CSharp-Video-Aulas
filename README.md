@@ -84,4 +84,11 @@
 >Veja a postagem em http://www.codigoexpresso.com.br/Home/Postagem/74      
 >Assista a Vídeo em https://youtu.be/1H-WevM0dsY
 
+
+###Aula 13     
+#####Acessando Banco de Dados MySql (Criando Consultas)  em sua aplicação em Asp.Net MVC com C#(CSharp)      
+#####Comandos SQL (select, insert, delete e update)       
+#####Criar e usar Stored Procedures       
+>Veja a postagem em http://www.codigoexpresso.com.br/Home/Postagem/76      
+>Assista a Vídeo em https://youtu.be/7zLaKzwXa4g
 Visite nossa página www.codigoexpresso.com.br
