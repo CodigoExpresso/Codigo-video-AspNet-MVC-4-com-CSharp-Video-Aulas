@@ -24,7 +24,7 @@
 >Assista a Vídeo em https://www.youtube.com/watch?v=ns2elxH9-8g        
 
 ### Aula 03     
-#####Trabalhando com forms, input, submit, ViewData e Objetos Tipados      
+##### Trabalhando com forms, input, submit, ViewData e Objetos Tipados      
 >Veja a postagem em http://www.codigoexpresso.com.br/Home/Postagem/31      
 >Assista a Vídeo em https://www.youtube.com/watch?v=g4P3SdGHxis   
 
@@ -68,7 +68,7 @@
 >Assista a Vídeo em https://youtu.be/pp2cCRG-4T0
 
 ### Aula 10     
-#####Criando Mensagens Modal com o framework Twitter Bootstrap em sua aplicação em Asp.Net MVC com C#(CSharp)        
+##### Criando Mensagens Modal com o framework Twitter Bootstrap em sua aplicação em Asp.Net MVC com C#(CSharp)        
 >Veja a postagem em http://www.codigoexpresso.com.br/Home/Postagem/63      
 >Assista a Vídeo em https://youtu.be/XETzRHU9HHE
 
